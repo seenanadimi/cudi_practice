@@ -1,0 +1,51 @@
+/* div {
+        border: 1px solid black;
+      } */
+
+img {
+  /* border: 1px solid black; */
+  width: 100%;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.wrapper div {
+  margin: 100px auto 150px auto;
+}
+
+.wrapper a {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  text-decoration: none;
+  color: #1b1b1b;
+}
+
+#interviewpic {
+  max-width: 500px;
+}
+
+#moonman3 {
+  max-width: 500px;
+}
+
+#rager {
+  max-width: 800px;
+}
+
+#logo {
+  max-width: 400px;
+}
+
+#nav {
+  margin: 10px;
+  text-align: left;
+}
+
+#nav1 {
+  text-align: left;
+  margin: 10px;
+}
